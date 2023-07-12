@@ -33,9 +33,9 @@ var init_define_process_env_REMIX_DEV_HTTP_ORIGIN = __esm({
   }
 });
 
-// css-bundle-update-plugin-ns:/Users/jasonliao/code/yd-demo/node_modules/@remix-run/css-bundle/dist/index.js
+// css-bundle-update-plugin-ns:/Users/jasonliao/code/yoodooh-demo/node_modules/@remix-run/css-bundle/dist/index.js
 var require_dist = __commonJS({
-  "css-bundle-update-plugin-ns:/Users/jasonliao/code/yd-demo/node_modules/@remix-run/css-bundle/dist/index.js"(exports) {
+  "css-bundle-update-plugin-ns:/Users/jasonliao/code/yoodooh-demo/node_modules/@remix-run/css-bundle/dist/index.js"(exports) {
     "use strict";
     init_define_process_env_REMIX_DEV_HTTP_ORIGIN();
     Object.defineProperty(exports, "__esModule", { value: !0 });
@@ -174,7 +174,7 @@ init_define_process_env_REMIX_DEV_HTTP_ORIGIN();
 var import_css_bundle = __toESM(require_dist());
 
 // app/styles/tailwind.css
-var tailwind_default = "/build/_assets/tailwind-E4TYWC5F.css";
+var tailwind_default = "/build/_assets/tailwind-2YQ2J3HU.css";
 
 // app/root.tsx
 var import_react2 = require("@remix-run/react"), import_jsx_dev_runtime2 = require("react/jsx-dev-runtime"), links = () => [
@@ -1305,7 +1305,7 @@ function Index() {
 
 // server-assets-manifest:@remix-run/dev/assets-manifest
 init_define_process_env_REMIX_DEV_HTTP_ORIGIN();
-var assets_manifest_default = { entry: { module: "/build/entry.client-TKCYAUES.js", imports: ["/build/_shared/chunk-ZWGWGGVF.js", "/build/_shared/chunk-GIAAE3CH.js", "/build/_shared/chunk-5X4GLJBL.js", "/build/_shared/chunk-FRSL3OLM.js", "/build/_shared/chunk-NMZL6IDN.js", "/build/_shared/chunk-BOXFZXVX.js", "/build/_shared/chunk-UWV35TSL.js", "/build/_shared/chunk-PNG5AS42.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-OWBMNJJK.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/_index": { id: "routes/_index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/_index-UFKC6UZS.js", imports: void 0, hasAction: !1, hasLoader: !0, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/get-dooh-by-id": { id: "routes/get-dooh-by-id", parentId: "root", path: "get-dooh-by-id", index: void 0, caseSensitive: void 0, module: "/build/routes/get-dooh-by-id-JFUW6BNU.js", imports: void 0, hasAction: !1, hasLoader: !0, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "1444590b", hmr: { runtime: "/build/_shared/chunk-FRSL3OLM.js", timestamp: 1689133271337 }, url: "/build/manifest-1444590B.js" };
+var assets_manifest_default = { entry: { module: "/build/entry.client-26V4ZTO5.js", imports: ["/build/_shared/chunk-ZWGWGGVF.js", "/build/_shared/chunk-GIAAE3CH.js", "/build/_shared/chunk-ZKWS7JOM.js", "/build/_shared/chunk-5US467UG.js", "/build/_shared/chunk-NMZL6IDN.js", "/build/_shared/chunk-BOXFZXVX.js", "/build/_shared/chunk-UWV35TSL.js", "/build/_shared/chunk-PNG5AS42.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-U6F4VPY4.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/_index": { id: "routes/_index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/_index-KJSPAGDO.js", imports: void 0, hasAction: !1, hasLoader: !0, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/get-dooh-by-id": { id: "routes/get-dooh-by-id", parentId: "root", path: "get-dooh-by-id", index: void 0, caseSensitive: void 0, module: "/build/routes/get-dooh-by-id-JFUW6BNU.js", imports: void 0, hasAction: !1, hasLoader: !0, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "ef4a1b8b", hmr: { runtime: "/build/_shared/chunk-5US467UG.js", timestamp: 1689134995046 }, url: "/build/manifest-EF4A1B8B.js" };
 
 // server-entry-module:@remix-run/dev/server-build
 var assetsBuildDirectory = "public/build", future = { v2_dev: !0, unstable_postcss: !1, unstable_tailwind: !1, v2_errorBoundary: !0, v2_headers: !0, v2_meta: !0, v2_normalizeFormMethod: !0, v2_routeConvention: !0 }, publicPath = "/build/", entry = { module: entry_server_exports }, dev = { port: 3001 }, routes = {
