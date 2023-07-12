@@ -1,4 +1,4 @@
-# Welcome to YooDooh demo!
+# Welcome to YouDooh demo!
 
 ## Development
 
